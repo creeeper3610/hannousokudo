@@ -1,0 +1,1 @@
+import{a as s,r as n,o as t,f as l,B as c}from"./entry.4bc2fd06.js";const d=["disabled"],r=s({__name:"Modal",props:{disabled:{type:Boolean}},setup(a,{expose:o}){const _=a,e=n(null);return o({layer:e}),(p,i)=>(t(),l("div",{id:"modal-layer",ref_key:"layer",ref:e,disabled:_.disabled},null,8,d))}});const m=c(r,[["__scopeId","data-v-a8c454a2"]]);export{m as _};
